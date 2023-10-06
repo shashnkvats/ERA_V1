@@ -1,0 +1,8 @@
+gradio
+matplotlib
+numpy
+opencv-python
+torch
+openai-clip
+tqdm
+Pillow
