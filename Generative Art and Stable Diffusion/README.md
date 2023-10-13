@@ -1,4 +1,6 @@
-# Stable Diffusion Image Generator with Streamlit
+# Dreamstream
+
+![Screenshot](screenshot.png)
 
 This project uses [Hugging Face's](https://huggingface.co/) models and Stable Diffusion to generate images based on a user's input and selected style.
 
